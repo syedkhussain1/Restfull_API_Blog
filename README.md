@@ -3,6 +3,9 @@
 This is a Rest API build using MERN stack.
 Here I have build a complete backend using express.
 
+<img width="1900" height="955" alt="Blog_API_Demo" src="https://github.com/user-attachments/assets/667a271f-ad58-49ff-926b-22f5bd14f015" />
+
+
 ## Getting Started
 
 First, duplicate the `.env` file into a new file named `.env.local`. Update the value of your OpenAI API key there.
